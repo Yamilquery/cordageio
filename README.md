@@ -17,7 +17,7 @@ Product principles guide the decisions for the development of the product and em
 - [Product Themes](https://github.com/cordageio/cordageio/blob/master/4-Product-Themes.md): 
 Themes are supporting elements to the strategy for the product. Themes are open and suggest paths for future product development.
 
-- [Roadmap](https://github.com/cordageio/cordageio/tree/master/roadmap) & [Release Plans](https://github.com/cordageio/rigging/tree/master/release-plan/):
+- [Roadmap](https://github.com/cordageio/cordageio/tree/master/roadmap) & [Release Plans](https://github.com/cordageio/cordageio/tree/master/release-plan):
 A Roadmap and a Release plan are not the same. Roadmaps go over a high level concept of what wants to be achieved to solve the client organization's problems. A Release Plan is a commitment as to what will be delivered.
 
 ### Docs
