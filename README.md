@@ -8,7 +8,7 @@ Cordage.io is the central location for all things related to the organization.
 - [Cordage Vision](https://github.com/cordageio/cordageio/blob/master/1-Vision.md):
 We help companies achieve excellence and deliver more value.
 
-- [Product Vision]:(https://github.com/cordageio/cordageio/blob/master/2-Product-Vision.md)
+- [Product Vision:](https://github.com/cordageio/cordageio/blob/master/2-Product-Vision.md)
 Product vision serves as the true north for all decisions related to our product. This vision extends to all of Cordage, not only the product's core.
 
 - [Product Principles](https://github.com/cordageio/cordageio/blob/master/3-Product-Principles.md): 
