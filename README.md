@@ -20,6 +20,9 @@ Themes are supporting elements to the strategy for the product. Themes are open 
 - [Roadmap](https://github.com/cordageio/cordageio/tree/master/roadmap) & [Release Plans](https://github.com/cordageio/cordageio/tree/master/release-plan):
 A Roadmap and a Release plan are not the same. Roadmaps go over a high level concept of what wants to be achieved to solve the client organization's problems. A Release Plan is a commitment as to what will be delivered.
 
+- [Basic Training](https://github.com/cordageio/playbook):
+Basic training is needed to understand the decisions, the logic, tools, software and the technology used for all of Cordage's projects.
+
 ### Docs
 
 - [Architecture](https://www.github.com/):
@@ -31,9 +34,6 @@ A RESTful API is an application program interface (API) that uses HTTP requests 
 - Story Map:
 
 - Domains:
-
-- [Basic Training](https://github.com/cordageio/playbook):
-Basic training is needed to understand the decisions, the logic, tools, software and the technology used for all of Cordage's projects.
 
 ### Solutions, Repositories and Bounded Contexts
 - [Rigging](https://github.com/cordageio/rigging/):
