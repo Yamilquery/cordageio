@@ -5,16 +5,16 @@ Cordage.io is the central location for all things related to the organization.
 
 ## Navigation
 ### Organization
-- [Cordage Vision](https://github.com/cordageio/core/blob/master/organization/vision.md):
+- [Cordage Vision](https://github.com/cordageio/cordageio/blob/master/1-Vision.md):
 We help companies achieve excellence and deliver more value.
 
-- [Product Vision:](https://github.com/cordageio/core/blob/master/organization/product-vision.md)
+- [Product Vision:](https://github.com/cordageio/cordageio/blob/master/2-Product-Vision.md)
 Product vision serves as the true north for all decisions related to our product. This vision extends to all of Cordage, not only the product's core.
 
-- [Product Principles](https://github.com/cordageio/core/blob/master/organization/product-principles.md): 
+- [Product Principles](https://github.com/cordageio/cordageio/blob/master/3-Product-Principles.md): 
 Product principles guide the decisions for the development of the product and empowers team-members.
 
-- [Product Themes](https://www.github.com/): 
+- [Product Themes](https://github.com/cordageio/cordageio/blob/master/4-Product-Themes.md): 
 Themes are supporting elements to the strategy for the product. Themes are open and suggest paths for future product development.
 
 - [Roadmap](https://github.com/cordageio/rigging/tree/master/roadmap) & [Release Plans](https://github.com/cordageio/rigging/tree/master/release-plan/):
