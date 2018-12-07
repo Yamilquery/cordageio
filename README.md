@@ -25,7 +25,7 @@ Basic training is needed to understand the decisions, the logic, tools, software
 
 ### Docs
 
-- [Architecture](https://www.github.com/):
+- [Architecture](https://github.com/cordageio/cordageio/tree/master/contextmap):
 Software architecture refers to the high level structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations. This section documents the architecture for the core and the reason for core to exist.
 
 - [Rest and End Points](https://github.com/cordageio/core/tree/master/docs/ubiquitous/glossary)
