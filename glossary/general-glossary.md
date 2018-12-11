@@ -9,8 +9,8 @@ Evans makes clear that using the ubiquitous language between in conversations wi
 |Context|Description|
 |--|--|
 |DDD|Domain Driven Design. Set of patterns for building enterprise applications from the domain model out|
-|[CQRS](https://martinfowler.com/bliki/CQRS.html)|Two-fold layered architecture with parallel sections for handling command and query sides. Each section can be architected independently, even with a separate supporting architecture, whether that is DDD or client/server.|
-|[Sales and Marketing Terms](https://martinfowler.com/bliki/CQRS.html)|Two-fold layered architecture with parallel sections for handling command and query sides. Each section can be architected independently, even with a separate supporting architecture, whether that is DDD or client/server.|
+|CQRS|[CQRS](https://martinfowler.com/bliki/CQRS.html)Two-fold layered architecture with parallel sections for handling command and query sides. Each section can be architected independently, even with a separate supporting architecture, whether that is DDD or client/server.|
+|Sales and Marketing Terms| This is a context that covers terms used in sales, and in marketing at cordage. While these may not appear to have any relevance in the development process.|
 |[Rigging](https://github.com/cordageio/rigging/blob/master/docs/ubiquitous/glossary/README.md)|Rigging is a the name given to the context that manages: Organizations, Locations, Teams, Users, and user Security.|
 |RBAC|Role Based Access Control is a way to prevent unauthorized access to documents and preferences to limited users. This is a standard functionality in large enterprises. RBAC can be used to facilitate administration of security in large organizations with hundreds of users and thousands of permissions. These are used to enforce these policies without any complication.|
 |Frontend|Frontend is the graphical interface that allows a user to view and interact with data. This is also called the interaction layer and is mostly built with HTML, CSS and Javascript (Pure or with tools like React)|
