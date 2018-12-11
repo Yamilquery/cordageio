@@ -9,7 +9,7 @@ Evans makes clear that using the ubiquitous language between in conversations wi
 |Context|Description|
 |--|--|
 |[DDD](https://github.com/cordageio/cordageio/blob/master/glossary/ddd.md)|Domain Driven Design. Set of patterns for building enterprise applications from the domain model out|
-|CQRS|[CQRS](https://martinfowler.com/bliki/CQRS.html)Two-fold layered architecture with parallel sections for handling command and query sides. Each section can be architected independently, even with a separate supporting architecture, whether that is DDD or client/server.|
+|[CQRS](https://github.com/cordageio/cordageio/blob/master/glossary/cqrs.md)|[CQRS](https://martinfowler.com/bliki/CQRS.html)Two-fold layered architecture with parallel sections for handling command and query sides. Each section can be architected independently, even with a separate supporting architecture, whether that is DDD or client/server.|
 |Sales and Marketing Terms| This is a context that covers terms used in sales, and in marketing at cordage. While these may not appear to have any relevance in the development process.|
 |Internal Processes| Internal processes is a catch-all term in which we define the glossary for both agile development and product development.|
 |[Rigging](https://github.com/cordageio/rigging/blob/master/docs/ubiquitous/glossary/README.md)|Rigging is a the name given to the context that manages: Organizations, Locations, Teams, Users, and user Security.|
