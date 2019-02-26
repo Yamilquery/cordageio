@@ -18,3 +18,5 @@ Evans makes clear that using the ubiquitous language between in conversations wi
 |On-Premise|On-premises (abbreviated as "on-prem" or incorrectly said as "on-premise") is software that is installed and managed by the client organization in their own servers.|
 |Billing| Refers to the automated process of sending an invoice/bill to a customer in exchange for goods or services rendered.|
 |Logs-reports-notifications|A log, in a computing context, is the automatically produced and time-stamped documentation of events relevant to a particular system. A report is the grouping of log activities to provide value to the end user. A notification is an action triggered by an event registered in the log. At Cordage we grouped these three elements inside a context because they all revolve around the registration of an event.|
+|Partners|A partner is a third-party that is involved in the success of Cordage. There are 3 types of partners: Consultants, Value Added resellers and platform partners.|
+|Consultant Partners|A partner is a third-party that is involved in the success of Cordage. There are 3 types of partners: Consultants, Value Added resellers and platform partners.|
